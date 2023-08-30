@@ -1,0 +1,10 @@
+D:\IBroker\BrokerService\UserServiceHost\bin\Debug\UserServiceHost.exe.config
+D:\IBroker\BrokerService\UserServiceHost\bin\Debug\UserServiceHost.exe
+D:\IBroker\BrokerService\UserServiceHost\bin\Debug\UserServiceHost.pdb
+D:\IBroker\BrokerService\UserServiceHost\bin\Debug\UserLoginService.dll
+D:\IBroker\BrokerService\UserServiceHost\bin\Debug\UserLoginService.pdb
+D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.AssemblyReference.cache
+D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.CoreCompileInputs.cache
+D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.CopyComplete
+D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.exe
+D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.pdb

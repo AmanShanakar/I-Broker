@@ -1,0 +1,6 @@
+D:\IBroker\BrokerService\UserLoginService\bin\Debug\UserLoginService.dll
+D:\IBroker\BrokerService\UserLoginService\bin\Debug\UserLoginService.pdb
+D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.csproj.AssemblyReference.cache
+D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.csproj.CoreCompileInputs.cache
+D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.dll
+D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.pdb

@@ -1,0 +1,11 @@
+D:\IBroker\LoginClient\LoginClient\bin\Debug\LoginClient.exe.config
+D:\IBroker\LoginClient\LoginClient\bin\Debug\LoginClient.exe
+D:\IBroker\LoginClient\LoginClient\bin\Debug\LoginClient.pdb
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.AssemblyReference.cache
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.Form1.resources
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.Properties.Resources.resources
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.GenerateResource.cache
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.CoreCompileInputs.cache
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.exe
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.pdb
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.Form2.resources
