@@ -8,4 +8,7 @@ D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.GenerateResource
 D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.CoreCompileInputs.cache
 D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.exe
 D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.pdb
-D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.Form2.resources
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.Form3.resources
+D:\IBroker\LoginClient\LoginClient\bin\Debug\PagedList.dll
+D:\IBroker\LoginClient\LoginClient\bin\Debug\PagedList.xml
+D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.CopyComplete

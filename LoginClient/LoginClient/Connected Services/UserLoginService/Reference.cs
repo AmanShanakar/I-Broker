@@ -16,10 +16,10 @@ namespace LoginClient.UserLoginService {
     public interface IUserLoginService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IUserLoginService/GetUser", ReplyAction="http://tempuri.org/IUserLoginService/GetUserResponse")]
-        int GetUser(string Name, string Password, string Status);
+        int GetUser(string Name, string Password);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IUserLoginService/GetUser", ReplyAction="http://tempuri.org/IUserLoginService/GetUserResponse")]
-        System.Threading.Tasks.Task<int> GetUserAsync(string Name, string Password, string Status);
+        System.Threading.Tasks.Task<int> GetUserAsync(string Name, string Password);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -49,12 +49,12 @@ namespace LoginClient.UserLoginService {
                 base(binding, remoteAddress) {
         }
         
-        public int GetUser(string Name, string Password, string Status) {
-            return base.Channel.GetUser(Name, Password, Status);
+        public int GetUser(string Name, string Password) {
+            return base.Channel.GetUser(Name, Password);
         }
         
-        public System.Threading.Tasks.Task<int> GetUserAsync(string Name, string Password, string Status) {
-            return base.Channel.GetUserAsync(Name, Password, Status);
+        public System.Threading.Tasks.Task<int> GetUserAsync(string Name, string Password) {
+            return base.Channel.GetUserAsync(Name, Password);
         }
     }
 }

@@ -7,6 +7,6 @@ namespace UserLoginService
     public interface IUserLoginService
     {
         [OperationContract]
-        int GetUser(string Name, string Password, string Status);  //, string Status
+        int GetUser(string Name, string Password);  //, string Status
     }
 }
