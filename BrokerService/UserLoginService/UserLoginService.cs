@@ -19,7 +19,6 @@ namespace UserLoginService
 
                 SqlParameter paramName = new SqlParameter("@Name", Name);
                 SqlParameter paramPassword = new SqlParameter("@Password", Password);
-                //SqlParameter paramStatus = new SqlParameter("@Status", Status);
 
                 SqlParameter paramReturnValue = new SqlParameter("@ReturnValue", SqlDbType.Int);
                 paramReturnValue.Direction = ParameterDirection.Output;
@@ -27,7 +26,6 @@ namespace UserLoginService
                 cmd.Parameters.Add(paramName);
                 cmd.Parameters.Add(paramPassword);
                 cmd.Parameters.Add(paramReturnValue);
-                //cmd.Parameters.Add(paramStatus);
 
                 con.Open();
                 SqlDataReader reader = cmd.ExecuteReader();

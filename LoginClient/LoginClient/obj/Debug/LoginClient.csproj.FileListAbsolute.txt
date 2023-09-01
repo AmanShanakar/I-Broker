@@ -12,3 +12,17 @@ D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.Form3.resources
 D:\IBroker\LoginClient\LoginClient\bin\Debug\PagedList.dll
 D:\IBroker\LoginClient\LoginClient\bin\Debug\PagedList.xml
 D:\IBroker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.CopyComplete
+D:\Code\I-Broker\LoginClient\LoginClient\bin\Debug\LoginClient.exe.config
+D:\Code\I-Broker\LoginClient\LoginClient\bin\Debug\LoginClient.exe
+D:\Code\I-Broker\LoginClient\LoginClient\bin\Debug\LoginClient.pdb
+D:\Code\I-Broker\LoginClient\LoginClient\bin\Debug\PagedList.dll
+D:\Code\I-Broker\LoginClient\LoginClient\bin\Debug\PagedList.xml
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.AssemblyReference.cache
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.Form1.resources
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.Form3.resources
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.Properties.Resources.resources
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.GenerateResource.cache
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.CoreCompileInputs.cache
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.csproj.CopyComplete
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.exe
+D:\Code\I-Broker\LoginClient\LoginClient\obj\Debug\LoginClient.pdb

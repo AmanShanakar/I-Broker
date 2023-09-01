@@ -60,7 +60,7 @@ namespace LoginClient
             // 
             // splitContainer1.Panel2
             // 
-            this.splitContainer1.Panel2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.splitContainer1.Panel2.BackColor = System.Drawing.SystemColors.Window;
             this.splitContainer1.Panel2.Controls.Add(this.linkLabel1);
             this.splitContainer1.Panel2.Controls.Add(this.PasswordTextBox);
             this.splitContainer1.Panel2.Controls.Add(this.NameTextBox);
@@ -70,8 +70,8 @@ namespace LoginClient
             this.splitContainer1.Panel2.Controls.Add(this.label2);
             this.splitContainer1.Panel2.Controls.Add(this.label1);
             this.splitContainer1.Panel2.Controls.Add(this.pictureBox2);
-            this.splitContainer1.Size = new System.Drawing.Size(1038, 563);
-            this.splitContainer1.SplitterDistance = 638;
+            this.splitContainer1.Size = new System.Drawing.Size(1316, 656);
+            this.splitContainer1.SplitterDistance = 917;
             this.splitContainer1.TabIndex = 0;
             // 
             // pictureBox1
@@ -80,8 +80,8 @@ namespace LoginClient
             this.pictureBox1.Image = global::LoginClient.Properties.Resources.Abylle_Logo;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(638, 563);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.Size = new System.Drawing.Size(917, 656);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -92,7 +92,7 @@ namespace LoginClient
             this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel1.ForeColor = System.Drawing.SystemColors.ControlText;
             this.linkLabel1.LinkColor = System.Drawing.Color.DimGray;
-            this.linkLabel1.Location = new System.Drawing.Point(241, 385);
+            this.linkLabel1.Location = new System.Drawing.Point(241, 481);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(132, 16);
             this.linkLabel1.TabIndex = 8;
@@ -103,7 +103,7 @@ namespace LoginClient
             // 
             this.PasswordTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PasswordTextBox.ForeColor = System.Drawing.SystemColors.InactiveCaption;
-            this.PasswordTextBox.Location = new System.Drawing.Point(23, 343);
+            this.PasswordTextBox.Location = new System.Drawing.Point(23, 449);
             this.PasswordTextBox.Name = "PasswordTextBox";
             this.PasswordTextBox.Size = new System.Drawing.Size(350, 29);
             this.PasswordTextBox.TabIndex = 7;
@@ -115,7 +115,7 @@ namespace LoginClient
             // 
             this.NameTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.NameTextBox.ForeColor = System.Drawing.SystemColors.InactiveCaption;
-            this.NameTextBox.Location = new System.Drawing.Point(23, 273);
+            this.NameTextBox.Location = new System.Drawing.Point(23, 386);
             this.NameTextBox.Name = "NameTextBox";
             this.NameTextBox.Size = new System.Drawing.Size(350, 29);
             this.NameTextBox.TabIndex = 6;
@@ -129,7 +129,7 @@ namespace LoginClient
             this.label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label4.Location = new System.Drawing.Point(20, 324);
+            this.label4.Location = new System.Drawing.Point(20, 430);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(76, 16);
             this.label4.TabIndex = 5;
@@ -141,7 +141,7 @@ namespace LoginClient
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label3.Location = new System.Drawing.Point(20, 254);
+            this.label3.Location = new System.Drawing.Point(20, 367);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(60, 16);
             this.label3.TabIndex = 4;
@@ -151,12 +151,13 @@ namespace LoginClient
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
+            this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Gray;
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button1.Location = new System.Drawing.Point(118, 427);
+            this.button1.Location = new System.Drawing.Point(118, 529);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(149, 44);
             this.button1.TabIndex = 3;
@@ -169,7 +170,7 @@ namespace LoginClient
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.GrayText;
-            this.label2.Location = new System.Drawing.Point(19, 204);
+            this.label2.Location = new System.Drawing.Point(19, 291);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(354, 20);
             this.label2.TabIndex = 2;
@@ -179,7 +180,7 @@ namespace LoginClient
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(157, 164);
+            this.label1.Location = new System.Drawing.Point(155, 240);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(70, 25);
             this.label1.TabIndex = 1;
@@ -188,9 +189,9 @@ namespace LoginClient
             // pictureBox2
             // 
             this.pictureBox2.Image = global::LoginClient.Properties.Resources.Abylle_Logo;
-            this.pictureBox2.Location = new System.Drawing.Point(118, 63);
+            this.pictureBox2.Location = new System.Drawing.Point(96, 97);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(149, 49);
+            this.pictureBox2.Size = new System.Drawing.Size(181, 82);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
@@ -199,10 +200,9 @@ namespace LoginClient
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1038, 563);
-            this.ControlBox = false;
+            this.BackColor = System.Drawing.SystemColors.Window;
+            this.ClientSize = new System.Drawing.Size(1316, 656);
             this.Controls.Add(this.splitContainer1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.Text = "Form1";
             this.splitContainer1.Panel1.ResumeLayout(false);

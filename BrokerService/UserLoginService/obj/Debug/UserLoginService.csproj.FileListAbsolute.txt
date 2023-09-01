@@ -4,3 +4,9 @@ D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.csproj.Asse
 D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.csproj.CoreCompileInputs.cache
 D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.dll
 D:\IBroker\BrokerService\UserLoginService\obj\Debug\UserLoginService.pdb
+D:\Code\I-Broker\BrokerService\UserLoginService\bin\Debug\UserLoginService.dll
+D:\Code\I-Broker\BrokerService\UserLoginService\bin\Debug\UserLoginService.pdb
+D:\Code\I-Broker\BrokerService\UserLoginService\obj\Debug\UserLoginService.csproj.AssemblyReference.cache
+D:\Code\I-Broker\BrokerService\UserLoginService\obj\Debug\UserLoginService.csproj.CoreCompileInputs.cache
+D:\Code\I-Broker\BrokerService\UserLoginService\obj\Debug\UserLoginService.dll
+D:\Code\I-Broker\BrokerService\UserLoginService\obj\Debug\UserLoginService.pdb

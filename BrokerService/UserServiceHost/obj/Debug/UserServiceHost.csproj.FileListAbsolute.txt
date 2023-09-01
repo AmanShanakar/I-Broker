@@ -8,3 +8,13 @@ D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.CoreCo
 D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.CopyComplete
 D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.exe
 D:\IBroker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.pdb
+D:\Code\I-Broker\BrokerService\UserServiceHost\bin\Debug\UserServiceHost.exe.config
+D:\Code\I-Broker\BrokerService\UserServiceHost\bin\Debug\UserServiceHost.exe
+D:\Code\I-Broker\BrokerService\UserServiceHost\bin\Debug\UserServiceHost.pdb
+D:\Code\I-Broker\BrokerService\UserServiceHost\bin\Debug\UserLoginService.dll
+D:\Code\I-Broker\BrokerService\UserServiceHost\bin\Debug\UserLoginService.pdb
+D:\Code\I-Broker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.AssemblyReference.cache
+D:\Code\I-Broker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.CoreCompileInputs.cache
+D:\Code\I-Broker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.csproj.CopyComplete
+D:\Code\I-Broker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.exe
+D:\Code\I-Broker\BrokerService\UserServiceHost\obj\Debug\UserServiceHost.pdb
