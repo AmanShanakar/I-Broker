@@ -24,7 +24,7 @@ namespace LoginClient
 
             if (!IsValidPassword(Password))
             {
-                MessageBox.Show("Invalid password format.\nPassword should be case-sensitive.\nPlease check the password."); // and have a maximum length of 30 characters
+                MessageBox.Show("Invalid password format.\nPlease check the password."); // and have a maximum length of 30 characters
                 return;
             }
 
@@ -60,14 +60,8 @@ namespace LoginClient
         }
         private bool IsValidPassword(string password)
         {
-            return Regex.IsMatch(password, @"^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$", RegexOptions.None);
+            return Regex.IsMatch(password, @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$");
         }
-/*
-        private bool IsValidPassword(string password)
-        {
-            return Regex.IsMatch(password, @"^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$");
-        }*/
-
         private void NameTextBox_Enter(object sender, EventArgs e)
         {
             if(NameTextBox.Text == "Enter User Id")
